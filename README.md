@@ -56,7 +56,3 @@ Clone this repository by opening your terminal/CMD and change the current workin
 Incase of a bug or you wish to make an update create a new branch using git command `git checkout -b <name of your branch>` and create a pull request. Wait for review.
 
 Don't forget to star the repo 🌟😉
-
-## Source and attribution
-
-This independent repository is a copy of [morikeli/soko-commerce](https://github.com/morikeli/soko-commerce). The original Git commit history, authorship, and existing license notices have been preserved. Credit for the original project belongs to its original authors and contributors. This copy is maintained by [georges-mars](https://github.com/georges-mars).
